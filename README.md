@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Multi-Machine-Learning-Algorithms
-An elaborate programming research study and program to detect Credit Card Fraud in considered dataset from Kaggle using Multiple Machine learning algorithms. The repository contains a .ipynb python3 notebook and .py files of the program. Also dataset used is included in the repository.
+An elaborate programming research study and program to detect Credit Card Fraud in considered dataset from Kaggle using Multiple Machine learning algorithms. The repository contains a .ipynb python3 notebook and .py files of the program. Dataset used can be downloaded from kaggle link given below.
 
 # Machine Learning Algorithms Applied
 Primarily GaussainNB, DecisionTreeClassifier, K-Nearest Neighbors and Support Vector Machines are used in this script. Alongwith with these multiple variants of these algorithms are used for analysis and comparison purposes.
