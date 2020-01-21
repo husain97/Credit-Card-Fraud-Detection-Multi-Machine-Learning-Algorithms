@@ -30,7 +30,7 @@ Below given is list of performance metrics considered for analysis of algorithm 
 It is best advised to use the python notebooks in google colab to achieve best results.
 
 # Some Important and Useful Links:
-Kaggle -Fake-News- Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
+Kaggle -Credit-Card-Fraud- Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud </br>
 Scikit-learn Link: https://scikit-learn.org/
 
 In case of any suggestions, corrections and contributions kindly drop a mail at husain.amreliwala52@gmail.com
